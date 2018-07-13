@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "map":[
+        {"ee_num":0,"value":100},
+        {"ee_num":1,"value":100},
+        {"ee_num":2,"value":100},
+        {"ee_num":3,"value":100}
+    ]
+}

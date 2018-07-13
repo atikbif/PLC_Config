@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>JSON/plc.json</file>
+        <file>JSON/io.json</file>
+        <file>JSON/devices.json</file>
+        <file>JSON/ee1.json</file>
+        <file>JSON/kk1302_01.par</file>
+        <file>JSON/kk1202_01.plc</file>
+        <file>JSON/kk1202_02.plc</file>
+        <file>JSON/kk1202_03.plc</file>
+        <file>JSON/kk1302_01.plc</file>
+        <file>JSON/kk1302_02.plc</file>
+        <file>JSON/mk1300_01.plc</file>
+        <file>JSON/ob1201_01.plc</file>
+        <file>JSON/ob1201_02.plc</file>
+        <file>JSON/ob1201_03.plc</file>
+        <file>JSON/sg1104_01.plc</file>
+        <file>JSON/sg1104_02.plc</file>
+        <file>JSON/sg1204_01.plc</file>
+        <file>JSON/sg1204_02.plc</file>
+        <file>JSON/so1103_01.plc</file>
+        <file>JSON/so1103_02.plc</file>
+        <file>JSON/so1103_03.plc</file>
+        <file>JSON/so1103_04.plc</file>
+        <file>JSON/sp1105_01.plc</file>
+        <file>JSON/sp1105_02.plc</file>
+        <file>JSON/sp1105_03.plc</file>
+        <file>JSON/sp1105_04.plc</file>
+        <file>JSON/sp1105_05.plc</file>
+        <file>JSON/sp1205_01.plc</file>
+    </qresource>
+</RCC>

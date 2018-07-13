@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/new_32.ico</file>
+        <file>Images/PC165B220(24).png</file>
+        <file>Icons/zoom_in.ico</file>
+        <file>Icons/zoom_out.ico</file>
+        <file>Images/PC265B220(24).png</file>
+        <file>Images/boiler.png</file>
+        <file>Images/ventil.png</file>
+        <file>Images/PC365B220(24).png</file>
+        <file>Icons/open.ico</file>
+        <file>Icons/save.ico</file>
+        <file>Icons/debug.ico</file>
+        <file>Icons/save_as.ico</file>
+        <file>Icons/read_config.ico</file>
+        <file>Icons/write_config.ico</file>
+        <file>Icons/write_flash.ico</file>
+        <file>Icons/print.ico</file>
+        <file>Icons/about.ico</file>
+        <file>Icons/pid_controller.ico</file>
+        <file>Images/PC16xB220(24).svg</file>
+        <file>Images/PC26xB220(24).svg</file>
+        <file>Images/PC36xB220(24).svg</file>
+        <file>Icons/settings.ico</file>
+    </qresource>
+</RCC>
