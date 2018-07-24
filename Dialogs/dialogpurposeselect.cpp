@@ -94,3 +94,10 @@ void DialogPurposeSelect::on_treeWidget_currentItemChanged(QTreeWidgetItem *curr
         code = current->toolTip(0).toInt();
     }
 }
+
+void DialogPurposeSelect::on_treeWidget_itemDoubleClicked(QTreeWidgetItem *item, int column)
+{
+    Q_UNUSED(item)
+    Q_UNUSED(column)
+    this->accept();
+}

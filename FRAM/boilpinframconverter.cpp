@@ -86,7 +86,7 @@ void BoilPinFRAMConverter::updateDIO(InputOutput &io, std::map<int, int> &framMa
         updateIO(io,diCode,ioClassification,plc);
     }else if(doCode) {
         updateIO(io,doCode,ioClassification,plc);
-    }
+    }else updateIO(io,0,ioClassification,plc);
 }
 
 void BoilPinFRAMConverter::updateIO(InputOutput &io, int code, IOClassification &ioClassification, PLC &plc)
